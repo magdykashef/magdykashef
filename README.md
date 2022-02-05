@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [zivo.tv](https://magdykashef.github.io/zivo-tv-preview/)
 
-- 🌱 I’m currently learning **<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="angular" width="40" height="40"/> </a>, CircleCi, AWS, Nodejs, Express**
+- 🌱 I’m currently learning **<p align="left"><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40" height="40"/> </a>, <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4" alt="Circleci" width="40" height="40"/> </a>, <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" width="40" height="40"/> </a>, <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="Nodejs" width="40" height="40"/> </a>, <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express" width="40" height="40"/> </a></p>**
 
 - 💬 Ask me about **Angular2+, Nodejs, Express, Javascript**
 
