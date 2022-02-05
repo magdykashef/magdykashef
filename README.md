@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [zivo.tv](https://magdykashef.github.io/zivo-tv-preview/)
 
-- 🌱 I’m currently learning **Docker, CircleCi, AWS, Nodejs, Expressjs**
+- 🌱 I’m currently learning **Docker, CircleCi, AWS, Nodejs, Expressjs.**
 
-- 💬 Ask me about **Angular2+, Nodejs, Express, Javascript**
+- 💬 Ask me about **Angular2+, Nodejs, Express, Javascript.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/magdykashef/**
 
