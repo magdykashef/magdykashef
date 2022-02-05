@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Magdy Kashef</h1>
+<h1 align="center">Hi 👋 I'm Magdy Kashef</h1>
 <h3 align="center">A passionate Front-End Web Developer from Egypt</h3>
 
 - 🔭 I’m currently working on [zivo.tv](https://magdykashef.github.io/zivo-tv-preview/)
