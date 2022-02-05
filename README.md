@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [zivo.tv](https://magdykashef.github.io/zivo-tv-preview/)
 
-- 🌱 I’m currently learning **Docker, CircleCi, AWS, Nodejs, Express**
+- 🌱 I’m currently learning **<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="angular" width="40" height="40"/> </a>, CircleCi, AWS, Nodejs, Express**
 
 - 💬 Ask me about **Angular2+, Nodejs, Express, Javascript**
 
